@@ -6,7 +6,7 @@ permalink: /publication/2021_Thesis
 excerpt: 'This paper was my undergraduate thesis. It involved indexing workload in areas where unarmed shootings occurred and exploring the relationship between workload and unarmed shooting rate.'
 date: 2021-08-01
 venue: 'Scientia et Humanitas'
-paperurl: '[Download Paper](https://libjournals.mtsu.edu/index.php/scientia/issue/view/180/105)'
+paperurl: 'https://libjournals.mtsu.edu/index.php/scientia/issue/view/180/105'
 citation: 'Zwemer, D. U., & Pennington, J. (2021). Exploring the link between violent crime workload and officer-involved shootings of unarmed individuals. Scientia et Humanitas, 11(1), 23-34. https://libjournals.mtsu.edu/index.php/scientia/issue/view/180/105 '
 ---
 Abstract: The present author created a measure of officer workload in the U.S. and determined
