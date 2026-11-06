@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Psychology and Law: Graduate Instructor"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/PLPI
+venue: "University of Utah, Psychology"
+date: 2025-06-1
+location: "Salt Lake City, United States of America"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Psychology and Law (Online)
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+I was the graduate instructor for a Psychology and Law Course. I marked quizzes on a variety of forensic psychology modules. I also corresponded with students about their questions and accommodations for the summer course. I received high teaching evaluations from my students, who expressed satisfaction with the course and stated that my responsiveness aided their success.  Materials were derived from Dr. Kara N. Moore's graduate course.
