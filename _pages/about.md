@@ -10,4 +10,6 @@ I am an NSF Graduate Research Fellow studying in the CALM Lab at the University 
 
 I have contributed to publications in _Journal of Applied Research in Memory and Cognition_, _Cognitive Research: Principles and Implications_, _Policy Insights from the Behavioral and Brain Sciences_, _Applied Cognitive Psychology_, and _Attention, Perception, and Psychophysics_. I have teaching experience in Psychology and Law courses as well as Research Methods. I frequently engage with the American Psychology-Law Society (AP-LS) and the Society for Applied Research in Memory and Cognition (SARMAC). I was on the student executive board of SARMAC from Fall 2023 - Fall 2025. I serve on the SARMAC Committee on Diversity and Inclusion. I am open to collaboration and data sharing requests, so feel free to reach out!
 
+[View Dara's Living Vita](https://docs.google.com/document/d/1AEEqQjbya-O1CYUNWQUp7xwaY1y7T3u5s41Apy_9V9Q/edit?usp=sharing)
+
 The views expressed on this site are my own and do not necessarily reflect the views of my employer.
