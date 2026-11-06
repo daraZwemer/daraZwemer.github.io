@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Eyewitness confidence does not necessarily indicate identification accuracy"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2024_confidence
+excerpt: 'I contributed to this policy paper recommending legal practitioners to be cautious using confidence to indicate accuracy.'
+date: 2024-10-01
+venue: 'Policy Insights from the Behavioral and Brain Sciences'
+paperurl: 'https://www.researchgate.net/profile/Kara-Moore/publication/382840931_Eyewitness_Confidence_Does_Not_Necessarily_Indicate_Identification_Accuracy/links/66fd887af599e0392fb33764/Eyewitness-Confidence-Does-Not-Necessarily-Indicate-Identification-Accuracy.pdf'
+citation: 'Moore, K. N., Pennekamp, P., Yu, C., & Zwemer, D. U. (2024). Eyewitness confidence does not necessarily indicate identification accuracy. Policy Insights from the Behavioral and Brain Sciences. https://journals.sagepub.com/doi/10.1177/23727322241268384.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract: Eyewitness identifications are prone to error. Scholars and legal stakeholders are exploring whether and when eyewitness confidence predicts identification accuracy. Scholars agree on a strong but imperfect relationship between initial confidence and accuracy under “pristine” (ideal) conditions. However, pristine conditions are not unfailingly present in criminal cases. Even when pristine conditions are present, high confidence is not always associated with high accuracy because other factors influence the confidence–accuracy relationship. Researchers have not yet reached a consensus about the many variables that may impact the confidence–accuracy relationship. Ultimately, legal practitioners should be cautious in using confidence as an indicator of accuracy.
