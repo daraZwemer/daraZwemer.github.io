@@ -1,24 +1,25 @@
 ---
-title: "Investigating the Relationship Between Workload and Officer-Involved shootings of Unarmed Individuals"
+title: "Exploring the link between violent crime workload and officer-involved shootings of unarmed individuals"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021_Thesis
 excerpt: 'This paper was my undergraduate thesis. It involved indexing workload in areas where unarmed shootings occurred and exploring the relationship between workload and unarmed shooting rate.'
 date: 2021-08-01
-venue: 'Jewel Scholar and Scientia et Humanitas'
-paperurl: '[Download Paper](https://jewlscholar.mtsu.edu/server/api/core/bitstreams/a18e4f28-5a9a-4494-ae5c-db2c66e73e84/content)'
-citation: 'Zwemer, D. U. (2021). Investigating the relationship between workload and officer-involved shootings of unarmed individuals. [Undergraduate Thesis, Middle Tennessee State University]. JEWL Scholar at MTSU. https://jewlscholar.mtsu.edu/handle/mtsu/3.'
+venue: 'Scientia et Humanitas'
+paperurl: '[Download Paper](https://libjournals.mtsu.edu/index.php/scientia/issue/view/180/105)'
+citation: 'Zwemer, D. U., & Pennington, J. (2021). Exploring the link between violent crime workload and officer-involved shootings of unarmed individuals. Scientia et Humanitas, 11(1), 23-34. https://libjournals.mtsu.edu/index.php/scientia/issue/view/180/105 '
 ---
-Abstract: This study examines the relationship between officer workload and lethal, officer-
-involved shootings of unarmed individuals (LOIS-Us) that occurred in the United States
-between 2016 and 2018. The author created two indices of officer workload, total
-incident workload, and violent crime workload, using archival data. The indices were
-created for each state and municipality in which one or more LOIS-Us occurred. The
-author hypothesized that (1) states with more LOIS-Us would have higher workload
-indices than states with fewer LOIS-Us, and (2) both workload indices would be higher
-in municipalities where one or more LOIS-Us occurred than corresponding state-level
-indices. Unexpectedly, total incident workload was unrelated to LOIS-Us and violent
-crime workload was negatively correlated with LOIS-Us. Average state workload values
-were higher than the values in studied municipalities. Future research should explore
-whether these findings stem from officers with lower workloads having less experience
-responding to crimes.
+Abstract: The present author created a measure of officer workload in the U.S. and determined
+whether this measure predicted lethal officer-involved shootings (OISs) of unarmed
+individuals. Seventy-six OISs from the year 2016 were analyzed using archival data. Data
+were collected regarding population size, number of officers, and violent crime statis-
+tics for each city and state in which a lethal OIS of an unarmed decedent occurred. The
+present author hypothesized that states with more officer-involved shootings of unarmed
+individuals would have higher officer workloads than states with fewer shootings, and that
+officer workload would be higher in cities where shootings occurred, compared to those
+cities’ state-level measures. Workload comparisons between states were not significant;
+however, city to state comparisons revealed meaningful workload differences. Specifically,
+cities with fatal OISs of unarmed decedents had higher officer workloads than the state in
+which the cities were located. Future research that includes data beyond 2016 could allow
+one to predict cities that are at risk for lethal OISs and offer evidence-based insights into
+methods designed to minimize the number of these events.
